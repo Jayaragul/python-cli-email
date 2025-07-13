@@ -1,4 +1,7 @@
 # Python CLI Email Viewer 📧
+## 📸 Demo Screenshot
+
+![Demo Screenshot](image.png)
 
 A Python-based CLI tool to interact with your IMAP email inbox. Supports:
 - Listing recent emails
