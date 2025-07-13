@@ -33,6 +33,45 @@ IMAP_PORT=993
 4) then run
 python main.py
 
+![Demo Screenshot](image.pnggit clone https://github.com/Jayaragul/python-cli-email.git
+cd python-cli-email
+
+2) After this
+Install dependencies
+pip install -r req.txt
+
+3) Configure Environment Variables
+Create a .env file:
+IMAP_USER=your-email@example.com
+IMAP_PASSWORD=your-email-password-or-app-password
+IMAP_HOST=imap.example.com
+IMAP_PORT=993
+
+4) then run
+python main.py
+
+![Demo Screenshot](image.png)git clone https://github.com/Jayaragul/python-cli-email.git
+cd python-cli-email
+
+2) After this
+Install dependencies
+pip install -r req.txt
+
+3) Configure Environment Variables
+Create a .env file:
+IMAP_USER=your-email@example.com
+IMAP_PASSWORD=your-email-password-or-app-password
+IMAP_HOST=imap.example.com
+IMAP_PORT=993
+
+4) then run
+python main.py
+
 ![Demo Screenshot](image.png)
+
+
+
+
+)
 
 
