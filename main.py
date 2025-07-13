@@ -3,6 +3,8 @@ from list_prompt import list_emails
 from fetch_emails import fetch_email_by_number
 from search_emails import semantic_search_emails
 from datetime import datetime
+from dotenv import load_dotenv
+load_dotenv()
 
 def parse_date(input_str):
     try:
