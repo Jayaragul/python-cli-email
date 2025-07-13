@@ -33,3 +33,6 @@ IMAP_PORT=993
 4) then run
 python main.py
 
+![Demo Screenshot](image.png)
+
+
