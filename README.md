@@ -67,6 +67,14 @@ IMAP_PORT=993
 4) then run
 python main.py
 
+---
+
+### ✅ Notes:
+- Replace `image.png` with the **actual path to your image** (e.g., `assets/demo.png`).
+- Make sure the image is **pushed to your GitHub repository**.
+
+If you want me to generate a specific assets folder structure or image, let me know!
+
 ![Demo Screenshot](image.png)
 
 
